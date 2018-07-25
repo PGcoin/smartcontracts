@@ -1,1 +1,1 @@
-# smartcontracts
+#PGcoin smartcontracts
